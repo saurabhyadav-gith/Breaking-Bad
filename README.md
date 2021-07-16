@@ -1,10 +1,10 @@
 # Breaking Bad
 
-**Technologies used:
+## Technologies used:
 
--[x] ReactJs
--[x] Scss
--[x] Breaking Bad API
+- [x] ReactJs
+- [x] Scss
+- [x] Breaking Bad API
 
 ## Available Scripts
 
