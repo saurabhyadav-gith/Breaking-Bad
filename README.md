@@ -4,7 +4,13 @@
 
 - [x] ReactJs
 - [x] Scss
-- [x] Breaking Bad API
+- [x] Breaking Bad API (https://www.breakingbadapi.com/api/)
+
+## Functionalities:
+- [x] You can see the character and their details such as name, nickname, status, birthday.
+- [x] You can use the search to filter down the characters based on their name. 
+
+
 
 ## Available Scripts
 
