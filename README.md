@@ -1,6 +1,9 @@
 # Breaking Bad
 
-**This project made using ***ReactJS***
+**Technologies used:
+-[x] ReactJs
+-[x] Scss
+-[x] Breaking Bad API
 
 ## Available Scripts
 
