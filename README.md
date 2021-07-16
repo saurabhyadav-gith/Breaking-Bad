@@ -1,6 +1,6 @@
 # Breaking Bad
 
-**This project made using ***ReactJS*** **
+**This project made using ***ReactJS***
 
 ## Available Scripts
 
