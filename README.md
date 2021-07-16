@@ -1,6 +1,7 @@
 # Breaking Bad
 
 **Technologies used:
+
 -[x] ReactJs
 -[x] Scss
 -[x] Breaking Bad API
