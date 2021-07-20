@@ -10,6 +10,20 @@
 - [x] You can see the character and their details such as name, nickname, status, birthday.
 - [x] You can use the search to filter down the characters based on their name. 
 
+## User Interface:
+<div>
+  <span>
+    <img src = "https://user-images.githubusercontent.com/61821926/126343212-cfbe0de5-354e-4f1a-8157-06c39fcebc09.png"  />
+  </span>
+  
+  <span>
+    <img src = "https://user-images.githubusercontent.com/61821926/126343216-e355945e-71de-4719-8106-fc27c0215af5.png" />
+  </span>
+  
+  <span>
+    <img src = "https://user-images.githubusercontent.com/61821926/126343226-37826c0b-0369-4c7d-b022-9a823717c62e.png" />
+  </span>
+ </div>
 
 
 ## Available Scripts
